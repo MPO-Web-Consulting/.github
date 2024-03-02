@@ -1,4 +1,17 @@
-## Hi there 👋
+![banner](../assets/images/github-header-image.png)
+
+## Welcome to MPO Web Consulting 👋
+
+![Github Stars](https://img.shields.io/github/stars/MPO-Web-Consulting?logo=github&color=31545C)
+![Github Followers](https://img.shields.io/github/followers/MPO-Web-Consulting?logo=github&color=31545C)
+
+## 🚀 What We Do
+
+MPO Web Consulting, specializes in:
+
+- *Modern Systems Engineering*
+- *Web technologies*
+- *Robotics & AI*
 
 <!--
 
