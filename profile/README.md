@@ -1,4 +1,4 @@
-![banner](../assets/images/github-header-image.png)
+![banner](https://raw.githubusercontent.com/MPO-Web-Consulting/.github/main/assets/images/github-header-image.png)
 
 ## Welcome to MPO Web Consulting 👋
 
